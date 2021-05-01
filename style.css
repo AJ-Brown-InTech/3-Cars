@@ -4,7 +4,7 @@ main {
 }
 
 img {
-   margin-bottom: 20px;
+   margin-bottom: 15px;
 }
 
 body {
@@ -25,17 +25,16 @@ button {
     border-radius: 10px;
 }
 
-p   {
+p  {
     opacity: 30%;
     color: white;
-    margin: 100px;
+    margin: 10px;
     font-family: "Lexend Deca", sans-serif;
 }
 
 body {
 color: white;
 margin: 100px;
-
 }
 
 section {
@@ -67,5 +66,5 @@ padding : 40px;
 }
 
 .luxury button {
-    color: hsl(179, 100%, 13%);
+    color:hsl(179, 100%, 13%)
 }
